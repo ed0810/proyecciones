@@ -1,0 +1,40 @@
+body{
+	background-image: url("../img/bk.png");
+}
+.cuadro{
+	border: 1px solid #999;	
+	background-color: white;
+	padding:10px;
+}
+.redondeado{
+	border-radius: 5px;
+}
+.brand{
+	color:#fff;
+	font-size: 20px;
+	float: left;
+}
+.brand:hover{
+	color:white;
+}
+.mynav{
+	background-color: #721c15;
+	height: 20px;
+	padding: 15px;
+}
+.mynav ul{
+	float: left;
+	list-style: none;
+}
+.mynav ul li{
+	float: left;
+	height: 100%;
+	padding-left:15px;
+	padding-right: 15px;
+}
+.mynav ul li a{
+	color:white;
+}
+.icon-8x{
+	font-size: 180px;
+}
